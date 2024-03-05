@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap');
+* {
+    font-family: "Ojuju" ,sans-serif;
+
+}   
+p.solid {border-style: solid;}
+*{
+    background-color: rgb(55, 73, 55);
+}
+
+h2{
+    color: white;text-align: center;
+    text-decoration: underline rgb(78, 9, 9);
+    box-shadow: none;
+    text-shadow: 1px 1px 2px rgb(78, 9, 9);
+}
+.box { outline: 2px solid black;
+    width:600px;
+    height:1200px;
+    padding:20px;
+    
+ }
+ *{box-shadow: 3px 3px 20px 6px rgba(100,6,6,0.66);
+}
+#leo {
+    width: 200px;
+    height: 200px;
+    border: 2px dashed black;
+    
+}
+#leo2{
+    width: 300px;
+    height: 200px;
+    border: 2px dashed black;
+    
+}
+h3{
+    color: white; text-align: center;
+    box-shadow: none;
+    color: rgb(78, 9, 9);
+    text-shadow: 1px 1px 2px white;
+}
+ul{
+    font-weight: bold;
+    box-shadow: none;
+    text-align: justify;
+}
+
+center{
+    box-shadow: none;
+}
+.metn{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: rgb(78, 9, 9);
+
+}
+.vin{
+    color: white;
+    word-spacing: 15px;
+    text-transform: uppercase;
+    box-shadow: none;
+}
+.vit{
+    color: white;
+    word-spacing: 15px;
+    box-shadow: none;
+    text-shadow: 1px 1px 2px rgb(241, 17, 17);
+    text-decoration: underline rgb(78, 9, 9);
+    
+}
+.mona{
+    color: white;
+    word-spacing: 15px;
+    box-shadow: none;
+    text-shadow: 1px 1px 2px rgb(230, 15, 15);
+    text-decoration: underline rgb(78, 9, 9);
+}
+.son{
+    color: white;
+    word-spacing: 15px;
+    box-shadow: none;
+    text-shadow: 1px 1px 2px rgb(238, 22, 22);
+    text-decoration: underline rgb(78, 9, 9);
+}
+.yemek{
+    color: white;
+    word-spacing: 15px;
+    text-transform: uppercase;
+    box-shadow: none;
+}
+.yemek1{
+        text-transform: capitalize;
+        color: rgb(78, 9, 9);
+        box-shadow: none;
+        text-decoration: line-through  black;
+}
